@@ -13,6 +13,6 @@ society_dues_before.py:27:0: C0116: Missing function or method docstring (missin
 society_dues_before.py:29:7: C0121: Comparison 'rows != None' should be 'rows is not None' (singleton-comparison)
 society_dues_before.py:34:0: C0116: Missing function or method docstring (missing-function-docstring)
 
------------------------------------
-Your code has been rated at 5.81/10
+------------------------------------------------------------------
+Your code has been rated at 5.81/10 (previous run: 5.81/10, +0.00)
 
